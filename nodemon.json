@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_ATLAS_USERNAME": "**DELETED_PAT_09/03/2020**",
+    "MONGO_ATLAS_PW": "**DELETED_PAT_09/03/2020**",
+    "JWT_KEY": "secret_this_should_be_longer"
+  }
+}
